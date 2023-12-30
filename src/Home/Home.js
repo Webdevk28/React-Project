@@ -61,13 +61,13 @@ function Home() {
                 <div className="w-full flex flex-col gap-8 lg:mb-72 lg:justify-center items-center">
                     <div className="span-text flex justify-center items-center gap-2 flex-col text-white">
                         <span className="world-text large rise text-gray-800 text-2xl sm:text-4xl text-center font-bold tracking-wide">Make this World</span>
-                        <span className="better large rise outline text-4xl sm:text-5xl lg:text-7xl font-extrabold tracking-wider">THE BETTER PLACE</span>
+                        <span className="better large rise outline text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-wider">THE BETTER PLACE</span>
                         <p className="text-sm sm:text-xl text-green-800 text-center mt-5">Start recycling today and protect our enviroment</p>
                     </div>
 
                     <div className="flex gap-4 text-xs sm:text-sm font-bold text-gray-600">
-                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border bg-yellow-500 rounded hover:bg-green-400 duration-300">START TODAY</div>
-                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border rounded hover:bg-green-400 duration-300">LEARN MORE</div>
+                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border border-green-700 shadow bg-yellow-500 rounded hover:bg-green-400 duration-300">START TODAY</div>
+                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border border-green-700 shadow rounded hover:bg-green-400 duration-300">LEARN MORE</div>
                     </div>
                 </div>
 
@@ -89,7 +89,7 @@ function Home() {
                     <div className="w-20 h-1 mt-4 bg-green-500"></div>
                     <p className="text-[15px] text-gray-700 mt-4 sm:w-10/12 leading-6 text-justify">Fight against oppression amplify assistance,countries medicine new approaches The Elders Global South advocate organization equal opportunity of vaccine international vulnerable cityzens. Lifting people social challenges democracy microloans fight against malnutrition, think tank social innovation global health truth dignity civic engagement. Design thinking diversification efficient recognize potential marginalized communitiess human potential governance change.</p>
                     <div className="mt-8 flex text-sm">
-                        <div className="py-3 font-bold tracking-wide cursor-pointer px-6 border text-gray-700 bg-yellow-500 rounded hover:bg-green-400 duration-300">READ MORE</div>
+                        <div className="py-3 font-bold tracking-wide cursor-pointer px-6 border border-green-700 shadow text-gray-700 bg-yellow-500 rounded hover:bg-green-400 duration-300">READ MORE</div>
                     </div>
                 </div>
 
@@ -104,8 +104,8 @@ function Home() {
                         <span className="world-text text-md sm:text-lg font-normal text-center">The only way to make this happened is to take action!</span>
                     </div>
                     <div className="flex gap-4 text-sm mt-8 font-bold">
-                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border bg-yellow-500 rounded hover:bg-green-400 duration-300">DONATE NOW</div>
-                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border rounded hover:bg-green-400 duration-300">TAKE ACTION</div>
+                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border bg-yellow-500 shadow rounded hover:bg-green-400 duration-300">DONATE NOW</div>
+                        <div className="py-2 sm:py-3 tracking-wide cursor-pointer px-4 sm:px-6 border shadow rounded hover:bg-green-400 duration-300">TAKE ACTION</div>
                     </div>
                 </div>
             </div>
